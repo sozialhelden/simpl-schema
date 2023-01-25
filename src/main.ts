@@ -7,4 +7,6 @@ SimpleSchema.ValidationContext = ValidationContext
 
 export { schemaDefinitionOptions, toJsonSchema, ValidationContext }
 
+export * from './types.js'
+
 export default SimpleSchema
