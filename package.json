@@ -1,6 +1,6 @@
 {
   "name": "@sozialhelden/simpl-schema",
-  "version": "3.4.1-export-all-types",
+  "version": "3.4.6-export-all-types",
   "description": "A schema validation package that supports direct validation of MongoDB update modifier objects.",
   "author": "Eric Dobbertin <eric@dairystatedesigns.com>",
   "license": "MIT",
